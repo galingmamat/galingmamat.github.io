@@ -20,6 +20,3 @@ Khusus hari ini:
 
 **Pesan 1-2 Botol Sekarang, Bisa Bayar Setelah Barangnya Sampai**
 {: style="color: red; text-align: center;"}
-
-Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah ini.
-
