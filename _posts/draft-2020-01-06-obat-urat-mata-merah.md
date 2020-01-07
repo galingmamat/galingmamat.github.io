@@ -1,3 +1,7 @@
+---
+layout: post
+title: Obat Urat Mata Merah Herbal 100% Alami
+
 Bagian putih mata Anda memiliki urat mata merah? Jangan khawatir, karena kondisi tersebut bisa di atasi dengan obat herbal Limatta Sehat Mata.
 
 Kondisi urat mata merah mesti segera diatasi, karena itu merupakan tanda dari:
@@ -31,20 +35,20 @@ Limatta Sehat Mata sudah lulus uji kandungan di BPOM RI.
 Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah ini.
 
 <br/>
-<a id="wa-gyt-up" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20obat%20herbal%20Samulinpro Sehat Sendi%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20GYT%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; color: white; padding: 10px;"><strong>PESAN SEKARANG via WA</strong></a>
+<a id="wa-blb-up" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20obat%20herbal%20Limatta Sehat Mata%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20BLB%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A" style="background-color: #0761bf; border: solid 4px #0761bf; border-radius: 4px; color: white; padding: 10px;"><strong>PESAN SEKARANG via WA</strong></a>
 {: style="text-align: center;"}
 <br/>
 
-## Samulinpro Sehat Sendi solusi ampuh menyembuhkan nyeri tumit
+## Limatta Sehat Mata solusi ampuh menghilangkan urat mata merah
 
-![Samulinpro](https://1.bp.blogspot.com/-FfpujqdvLbQ/XgGXsOO28uI/AAAAAAAAAbI/yVRBvauyEXghEFmhrjpX0_pWDGZeKwyywCNcBGAsYHQ/s1600/samulin.webp)
+![Limatta](https://1.bp.blogspot.com/-MGp3Ji88Ems/XhPybTj9K3I/AAAAAAAAAck/d71JLJnoJjgUTaLgvQMa1TyoAXPkgrNgQCEwYBhgL/s1600/produk.webp)
 {: style="text-align: center;"}
 
-### Khasiat Samulinpro Sehat Sendi
+### Khasiat Limatta Sehat Mata
 
-<strong>Kok bisa?</strong> Karena produk Samulinpro Sehat Sendi ini terbuat dari 100% <strong>Akar Kuning</strong>, <strong>Bratawali</strong>, dan <strong>Daun Salam</strong> berkualitas.
+<strong>Kok bisa?</strong> Karena produk Limatta ini terbuat dari 100% <strong>Akar Kuning</strong>, <strong>Bratawali</strong>, dan <strong>Daun Salam</strong> berkualitas.
 
-<strong>Kualitas kandungan Samulinpro Sehat Sendi ini berdasarkan penelitian mampu mengatasi kondisi darah yang mengental</strong>.
+<strong>Kualitas kandungan Limatta ini berdasarkan penelitian mampu mengatasi masalah yang terjadi di mata</strong>.
 
 Berikut detail kandungan dan khasiat dari setiap bahannya.
 
