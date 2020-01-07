@@ -202,15 +202,15 @@ Anda cukup mengirimkan SMS / WA Ke No. **082.215.649.991** dengan mencantumkan k
 
 Atau Anda Bisa Klik Tombol Di Bawah Ini untuk Memudahkan Proses Pemesanan:
 
-<a id="wa-gyt-down" style="background-color: #61ce70; border-radius: 2px; border: 2px solid rgb(97, 206, 112); color: white; display: inline-block; padding: 10px;" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20obat%20herbal%20Samulinpro Sehat Sendi%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20GYT%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SEKARANG via WA</a>
+<a id="wa-blb-down" style="background-color: #61ce70; border-radius: 2px; border: 2px solid rgb(97, 206, 112); color: white; display: inline-block; padding: 10px;" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20obat%20herbal%20Limatta Sehat Mata%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20BLB%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SEKARANG via WA</a>
 {: style="text-align: center;"}
 
-<a id="sms-gyt" style="background-color: orange; border-radius: 2px; border: 2px solid orange; color: white; display: inline-block; padding: 10px;" href="sms:+6282215649991?body=Saya%20pesan%20obat%20herbal%20Samulinpro Sehat Sendi%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20GYT%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SEKARANG via SMS</a>
+<a id="sms-blb" style="background-color: orange; border-radius: 2px; border: 2px solid orange; color: white; display: inline-block; padding: 10px;" href="sms:+6282215649991?body=Saya%20pesan%20obat%20herbal%20Limatta Sehat Mata%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20GYT%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SEKARANG via SMS</a>
 {: style="text-align: center;"}
 
 <div style="display: block;position: fixed;width: 100%;bottom: 0px;left: 0px;right: 0px;z-index: 2;padding: 10px 0px;overflow: hidden;border-radius: 0px;margin: 0px !important; background-color: #e8ffe8">
     <div style="width: 100%; height: 40px; display: flex; flex-direction: row; flex-wrap: wrap; padding: 0px 4px;">
-        <a id="wa-gyt-fly" style="color: white; display: flex; flex-direction: column; flex: 1 1 50%; padding: 0px 10px; align-items: center; justify-content: center; background-color: #61ce70;" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20obat%20herbal%20Samulinpro Sehat Sendi%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20GYT%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SAMULINPRO via WA</a>
+        <a id="wa-blb-fly" style="color: white; display: flex; flex-direction: column; flex: 1 1 50%; padding: 0px 10px; align-items: center; justify-content: center; background-color: #61ce70;" href="https://api.whatsapp.com/send?phone=6282215649991&text=Saya%20pesan%20obat%20herbal%20Limatta Sehat Mata%20dengan%20format%20pesanan%3A%0A-%20Kode%20produk%3A%20BLB%0A-%20Jumlah%20pesanan%3A%20%0A-%20Nama%20lengkap%3A%0A-%20Alamat%3A%0A-%20No.%20Hp%2FTelepon%3A">PESAN SAMULINPRO via WA</a>
     </div>
 </div>
 
