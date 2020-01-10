@@ -30,16 +30,13 @@ Anda bisa langsung pesan di sini melalui WA. Caranya klik saja tombol di bawah i
 
 ## Inilah testimoni QnC Jelly Gamat dalam mengatasi tumit pecah-pecah parah
 
-![satu](https://1.bp.blogspot.com/-YV8kLN-toL0/XgbK7on-RiI/AAAAAAAACYk/yQ9BAYPMjrwOTxlYrE_zkggApu3e1RROQCLcBGAsYHQ/s1600/satu.webp)
+![satu](https://1.bp.blogspot.com/-jmye04uF6K0/XhfMVYhuXjI/AAAAAAAACZg/DWnXnjeAr_wGShDAk_uPwdxU_iHXpOlgQCLcBGAsYHQ/s1600/test1.webp)
 {: style="text-align: center;"}
 
-![dua](https://1.bp.blogspot.com/-IhkHKDpYVDw/XgbK7cWV_4I/AAAAAAAACYg/DzXm9SNuE-s7RpOe7RmNtkpeWD9iO417wCLcBGAsYHQ/s1600/dua.webp)
+![dua](https://1.bp.blogspot.com/-PCsuwV2casM/XhfMVtKIjyI/AAAAAAAACZk/08ZYy98a3Uoy6850zxVKNzHg3sFCMx1UwCLcBGAsYHQ/s1600/test2.webp)
 {: style="text-align: center;"}
 
-![tiga](https://1.bp.blogspot.com/-Yad7vr0Bfxo/XgbK88r_tvI/AAAAAAAACYs/7hx0kbagVtcEibvE_S7qUX8pXwz3PvD5QCLcBGAsYHQ/s1600/tiga.webp)
-{: style="text-align: center;"}
-
-![empat](https://1.bp.blogspot.com/-BeGYmjeL7CA/XgbK74VnuWI/AAAAAAAACYo/Q4YBLjAuJU4DURBQYB933XX2qXD1jQ7cACLcBGAsYHQ/s1600/empat.webp)
+![tiga](https://1.bp.blogspot.com/-WLkXJRnYhHc/XhfMV77aTRI/AAAAAAAACZo/iaB5IQcM-pgWO5hr3uKyy6AbMrIS8dQfwCLcBGAsYHQ/s1600/test3.webp)
 {: style="text-align: center;"}
 
 ## Khasiat QnC Jelly Gamat dalam menyembuhkan tumit pecah-pecah
