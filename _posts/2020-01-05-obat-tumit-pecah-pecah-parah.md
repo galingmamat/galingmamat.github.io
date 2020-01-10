@@ -16,6 +16,13 @@ Sudah lolos uji nutrisi di <strong style="color: red;">BPOM RI</strong> dan Bada
 Kandungan anti-inflamasinya bisa mengatasi peradangan dan protein serta asam lemaknya mampu mempercepat regenerasi sel kulit, sehingga cocok untuk tumit pecah-pecah, bahkan dengan kondisi parah.
 {: style="background-color: lightcoral; padding: 6px 9px;"}
 
+<div style="background-color: #bee6f7; padding: 9px;">
+Bentuk obatnya cairan kental. Dikemas dalam botol plastik ukuran 300 ml. <strong style="color: red;">Harganya Rp165.000 perbotol</strong>.
+<br>
+<br>
+Penggunaanya bisa dioleskan dan dikonsumsi langsung.
+</div>
+
 Khusus hari ini:
 
 **Pesan 1-2 Botol Sekarang, Bisa Bayar Setelah Barangnya Sampai**
